@@ -1,8 +1,12 @@
 Hello World,
 
+My name a Darrell!
+
 Weclome to the Zombie Apocalypse!
 
 I'm learning Infrastructure as Code (Terraform) and created a simple project.
 More will be on the way as I continue to learn and explore what Terraform has offer.
 I will be leveraging Terraform with AWS, Azure, GCP, and Digital Ocean later in this process.
 Thanks for the support and Happy Coding and Hello World!
+
+Remember that we are all in this together and no one person is never alone. 
